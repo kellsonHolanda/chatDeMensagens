@@ -4,12 +4,12 @@
 
 </p>
 
-O presente projeto, utilizado para fins de estudo, foi desenvolvido com o acompanhamento de aulas da Hashtag Treinamentos: ![](C:\Users\abcde\Desktop\Hashtag\JavaScript\cloneProdutosAppleWatch\imagens\logo.png)
+O presente projeto, utilizado para fins de estudo, foi desenvolvido com o acompanhamento de aulas da Hashtag Treinamentos: ![logo](public/assets/logo.png)
 
 O projeto objetiva possibilitar a interação de vários usuários por meio de um chat em tempo real.
+
 >[!NOTE]
->Observações:
 >
-* Para criar um chat particular, com as pessoas conectadas ao mesmo wi-fi, basta colocar o endereço do IPv4 no lugar do número "1000" no arquivo "servidor".
+>* Para criar um chat particular, com as pessoas conectadas ao mesmo wi-fi, basta colocar o endereço do IPv4 no lugar do número "1000" no arquivo "servidor".
 Ex: servidorHttp.listen('000.000.0.000');
-* Para 'ativar' o servidor local é necessário digitar no terminal "node ./servidor.js". Este comando coloca o servidor em atividade e, com isso, é possível, ao digitar "localhost:1000" (ou o endereço do IPv4) na barra de endereço do browser escolhido.
+>* Para 'ativar' o servidor local é necessário digitar no terminal "node ./servidor.js". Este comando coloca o servidor em atividade e, com isso, é possível, ao digitar "localhost:1000" (ou o endereço do IPv4) na barra de endereço do browser escolhido.
