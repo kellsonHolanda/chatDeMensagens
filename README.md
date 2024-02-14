@@ -10,6 +10,6 @@ O projeto objetiva possibilitar a interação de vários usuários por meio de u
 >[!NOTE]
 >Observações:
 >
-* Para criar um chat interativo com as pessoas conectadas ao mesmo wi-fi, basta colocar o endereço do IPv4 no lugar do "1000".
+* Para criar um chat particular, com as pessoas conectadas ao mesmo wi-fi, basta colocar o endereço do IPv4 no lugar do número "1000" no arquivo "servidor".
 Ex: servidorHttp.listen('000.000.0.000');
 * Para 'ativar' o servidor local é necessário digitar no terminal "node ./servidor.js". Este comando coloca o servidor em atividade e, com isso, é possível, ao digitar "localhost:1000" (ou o endereço do IPv4) na barra de endereço do browser escolhido.
